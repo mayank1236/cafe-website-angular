@@ -1,0 +1,38 @@
+<div class="container">
+  <div class="cuisine" *ngFor="let cuisine of menu">
+    <h2 class="cuisine-name">{{ cuisine.name }}</h2>
+    <div
+      [ngClass]="{
+          'special-section': sections.special
+        }"
+      class="card"
+      *ngFor="let sections of cuisine.sections"
+    >
+      <div class="card-body">
+        <h3 class="card-title">{{ sections.name }}</h3>
+        <div>
+          <p></p>
+        </div>
+        <ul class="list-group">
+          <div [ngClass]="{'special-dish': dishes.special}" class="d-flex flex-row justify-content-between" *ngFor="let dishes of sections.dishes">
+            <li class="list-group-item" >
+              <div>
+                <p>{{dishes.name}}</p>
+              </div>
+              <p class="description">{{dishes.description}}</p>
+            </li>
+            <li class="list-group-item d-flex flex-row">
+                <p class="price" *ngIf="dishes.price.normal">{{dishes.price.normal}}/-</p>
+                <p class="price" *ngIf="dishes.price.half">{{dishes.price.half}}/-</p>
+                <p class="price" *ngIf="dishes.price.full">{{dishes.price.full}}/-</p>
+                <p class="price" *ngIf="dishes.price.eight">{{dishes.price.eight}}/-</p>
+                <p class="price" *ngIf="dishes.price.twelve">{{dishes.price.twelve}}/-</p>
+                <p class="price" *ngIf="dishes.price.veg">{{dishes.price.veg}}/-</p>
+                <p class="price" *ngIf="dishes.price['non-veg']">{{dishes.price["non-veg"]}}/-</p>
+            </li>
+          </div>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

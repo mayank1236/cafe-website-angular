@@ -1,0 +1,76 @@
+.cuisine {
+  background: url('../../assets/bg/black-chalk.png');
+}
+
+.cuisine-name {
+  font-size: 45px;
+  text-align: center;
+  color: rgb(254, 202, 10);
+  font-family: 'DynaPuff', cursive;
+  text-transform: uppercase;
+}
+
+.card {
+  background: transparent;
+}
+
+.card-title {
+  font-family: 'DynaPuff', cursive;
+  font-size: 30px;
+  color: rgb(254, 202, 10);
+  text-transform: uppercase;
+}
+
+.card-body {
+  border: none;
+}
+
+.list-group {
+  font-family: 'Lobster', cursive;
+}
+
+.list-group-item {
+  background: transparent;
+  border: none;
+  color: #ffffff;
+  font-size: 25px;
+  text-transform: capitalize;
+}
+
+.description {
+  font-size: 15px;
+  font-family: 'Maven Pro', sans-serif;
+  text-transform: capitalize;
+}
+
+.price {
+  margin-left: 5px;
+}
+
+
+/* SPECIAL */
+
+.special-section {
+  background: url('../../assets/bg/wepik-photo-mode-2022724-11418.png');
+}
+
+.special-section .card-title, .special-section .list-group-item {
+  color: #000000;
+}
+
+.special-dish {
+  /* background-image: linear-gradient(to right, rgb(255, 255, 255, 0.6), rgba(255, 255, 255, 0.1)); */
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+}
+
+.special-section .special-dish {
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.4));
+}
+
+.special-dish .list-group-item {
+  color: rgb(254, 202, 10);
+}
+
+.card, .special-section {
+  border: none;
+}

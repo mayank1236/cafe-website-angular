@@ -1,0 +1,1307 @@
+
+[
+  {
+    "name": "delicious bytes",
+    "sections": [
+      {
+        "name": "crispy rolls",
+        "dishes": [
+          {
+            "name": "veg spring rolls",
+            "description": "deep fried rolls stuffed with saute assorted veggies and served with hot garlic sauce",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "cheese corn rolls",
+            "description": "crispy cheesy rolls stuffed with cheese and sweet corns",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "cottage cheese cigar rolls",
+            "description": "crispy rolls stuffed with cheesy mozzarella and garnished with sweet chilly sauce",
+            "price": {"normal": 199,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "crunchy mushrooms",
+        "dishes": [
+          {
+            "name": "crispy golden mushroom",
+            "description": "spicy crispy mushrooms served with cheese sauce",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mushroom duplex",
+            "description": "mushroom stuffed with spinach and paneer",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "sizzling kababs",
+        "dishes": [
+          {
+            "name": "dahi ke kabab",
+            "description": "crispy hung curd kabab with stuffed assorted veggies",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "hara bhara kababs",
+            "description": "crispy kabab made with fresh veggies paneer crumbled with cashew and served with mint sauce",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "cheesy italian kabab",
+            "description": "aromatic kababs stuffed with cheesy mozzarella",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "fingers",
+        "dishes": [
+          {
+            "name": "veggie fingers",
+            "description": "golden deep fried fingers stuffed with corns and peas",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "crispy paneer fingers",
+            "description": "crunchy fried paneer blocks coated with bread crams",
+            "price": {"normal": 199,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "cheesy pizza fingers",
+            "description": "crispy mozzarella sticks with pinch of pizza taste",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "crunchy chicken",
+        "dishes": [
+          {
+            "name": "chicken popcorn",
+            "description": "crispy golden fried chicken chunks",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "chicken nuggets",
+            "description": "crispy deboned fried chicken",
+            "price": {"normal": 199,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": true
+          },
+          {
+            "name": "chicken strips",
+            "description": "crispy deep fried chicken fingers",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "aromatic burgers",
+        "dishes": [
+          {
+            "name": "crunchy aloo tikki",
+            "description": "herb chilly aloo tikki, onion, capsicum and aromatic sauce",
+            "price": {"normal": 49,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg tandoori tango",
+            "description": "crispy veggie tikki, onion, capsicum, corns, lettuce, cheese slice with cheese sauce",
+            "price": {"normal": 79,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "peri-peri paneer",
+            "description": "spicy paneer chunks, crispy veggie tikki, onion, capsicum, corns, lettuce, cheese slice with spicy cheese sauce",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "crispy paneer zinger",
+            "description": "crunchy paneer tikki with crisped veggies and cheese slice",
+            "price": {"normal": 109,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "crispy chicken burger",
+            "description": "crunchy chicken tikki with crisped veggies and cheese slice",
+            "price": {"normal": 129,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": true
+      },
+      {
+        "name": "grilled sandwich",
+        "dishes": [
+          {
+            "name": "veg aromatic sandwich",
+            "description": "onion, capscicum, corns and aromatic sauces",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "peri-peri classic paneer",
+            "description": "chilly paneer chunks with classic veggies and cheesy sauce",
+            "price": {"normal": 129,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "pizza cheese sandwich",
+            "description": "tangy pizza veggies with blend of mozarella",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "cheesy exotic oriental",
+            "description": "saute oriental veggies in tempting mozarella",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "spicy paneer makhani",
+            "description": "spicy makhani sauce stuffed with tangy veggies",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "grilled chicken sandwich",
+            "description": "chicken tikka, onion, capsicum, corns, mozzarella cheese adn aromatic sauces",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "wraps",
+        "dishes": [
+          {
+            "name": "veg wrap",
+            "description": "saute clubbed veggies with aromatic seasoning",
+            "price": {"normal": 89,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilli paneer wrap",
+            "description": "spicy paneer chunks packed with hot seasoning veggies",
+            "price": {"normal": 129,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "crunchy chicken wrap",
+            "description": "spicy chicken chunks packed with hot seasoning veggies",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "nachos",
+        "dishes": [
+          {
+            "name": "mexican salsa nachos",
+            "description": "crunchy nachos loaded with veggies and salsa sauce",
+            "price": {"normal": 139,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mexican paneer nachos",
+            "description": "crunchy nachos loaded with spicy paneer, veggies and salsa sauce",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mexican chicken nachos",
+            "description": "crunchy nachos loaded with crispy chicken, veggies and salsa sauce",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "fries",
+        "dishes": [
+          {
+            "name": "masala fries",
+            "description": "seasoned potato fingers with salt and oregano",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "italian cheese fries",
+            "description": "crispy fingers with cheesy italian toppings and seasoning",
+            "price": {"normal": 139,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "peri-peri fries",
+            "description": "spiced fingers tossed in peri-peri seasoning and served with tandoori and cheese sauce",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "crispy chicken fries",
+            "description": "spicy chicken fries garnished with pinch of oregano and seasoning",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": true
+      },
+      {
+        "name": "pasta",
+        "dishes": [
+          {
+            "name": "al-arrabita (red sauce)",
+            "description": "spicy tangy penne pasta made in spl. tomato peprika sauce & served with garlic bread",
+            "price": {"normal": null,"half": null, "full":null, "eight": null, "twelve": null, "veg": 169, "non-veg": 209},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "creamy alfredo (white sauce)",
+            "description": "creamy cheesy penne pasta made in spl. bechamel sauce & served with garlic bread",
+            "price": {"normal": null,"half": null, "full":null, "eight": null, "twelve": null, "veg": 179, "non-veg": 229},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "clumsy mashup (Mix Sauce)",
+            "description": "tangy cheesy penne pasta made with fusion of tomato peprika sauce & bechamel sauce",
+            "price": {"normal": null,"half": null, "full":null, "eight": null, "twelve": null, "veg": 199, "non-veg": 249},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "rolls",
+        "dishes": [
+          {
+            "name": "tandoori chaap roll",
+            "description": "tandoori soya chaap chunks stuffed in roll along with veggies, mint sauce & cream",
+            "price": {"normal": 139,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mushroom tikka roll",
+            "description": "tandoori butter mushroom chunks stuffed in roll along with veggies, mint sauce & cream",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer tikka roll",
+            "description": "tangy tandoori paneer cubes stuffed in roll along with veggies, mint sauce & cream",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "chicken tikka roll",
+            "description": "tandoori chicken tikka stuffed in roll along with veggies, mint sauce & cream",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "garlic bread",
+        "dishes": [
+          {
+            "name": "cheese corn",
+            "description": "",
+            "price": {"normal": 139,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "cheese overload",
+            "description": "",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "chilly paneer",
+            "description": "",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chicken tikka",
+            "description": "",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "pizza",
+        "dishes": [
+          {
+            "name": "cheesy margherita",
+            "description": "(cheese, mozzarella, olives)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 149, "twelve": 259, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "golden cheese corn",
+            "description": "(cheese, mozzarella, corns)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 169, "twelve": 289, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "farm fresh delight",
+            "description": "(cheese, mozzarella, onion, capsicum, corns, olives, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 189, "twelve": 349, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilly paneer",
+            "description": "(smoky paneer, mozzarella, onion, capsicum, corns, olives, peprika, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 209, "twelve": 389, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilly mushroom",
+            "description": "(smoky mushroom, mozzarella, onion, capsicum, corns, olives, peprika, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 209, "twelve": 389, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "adi's authentic pizza",
+            "description": "(smoky paneer, smoky mushroom, mozzarella, onion, capsicum, corns, olives, peprika, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 229, "twelve": 429, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "peppy paneer makhani",
+            "description": "(paneer loaded with makhani, mozzarella, onion, capsicum, corns, olives, peprika, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 249, "twelve": 469, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "crispy paneer pizza",
+            "description": "(cruncy paneer, mozzarella, onion, capsicum, olives, peprika, jalapeno)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 269, "twelve": 489, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chicken tikka pizza",
+            "description": "(tandoori chicken tikka, melted cheese, mozzarella, onion, capsicum)",
+            "price": {"normal": null,"half": null, "full":null, "eight": 259, "twelve": 479, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": true
+      }
+    ]
+  },
+  {
+    "name": "chinese cuisine",
+    "sections": [
+      {
+        "name": "",
+        "dishes": [
+          {
+            "name": "honey chilli potato",
+            "description": "crispy fried potato fingers tossed in honey chilli sauce & sesame seed",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "crispy corns salt & pepper",
+            "description": "fried crumbled corns saute with spiced aromatic veggies",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilli chaap",
+            "description": "crispy coated chaap tossed in hot garlic sauce along with pepper and onion",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg manchurian (gravy / dry)",
+            "description": "veggie fried balls tossed in authentic chinese hot and sour sauce",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "honey chilli cauliflower",
+            "description": "spicy fried cauliflower tossed in honey soy chilli sauce",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "exotic vegetables in hot garlic sauce",
+            "description": "authentic chinese veggies sauted in hot garlic sauce",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg crispy",
+            "description": "deep fried mix vegetables tossed in sweet hot chilli sauce along with veggies",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilli paneer (gravy / dry)",
+            "description": "cottage crispy cheese cubes tossed in hot garlic sauce along with pepper and onion",
+            "price": {"normal": 209,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chilli mushroom (gravy / dry)",
+            "description": "crispy spiced mushroom tossed in hot garlic sauce along with pepper and onion",
+            "price": {"normal": 209,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chicken manchurian",
+            "description": "chicken fried balls tossed in authentic chinese hot and sour sauce",
+            "price": {"normal": 269,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "chilly chicken",
+            "description": "crispy chicken tossed in hot garlic sauce along with pepper and onion",
+            "price": {"normal": 279,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "garlic chicken",
+            "description": "spicy garlic chicken tossed in hot garlic sauce along with pepper and onion",
+            "price": {"normal": 289,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": true
+      },
+      {
+        "name": "noodles",
+        "dishes": [
+          {
+            "name": "veg noodles",
+            "description": "stir fried noodles tossed in wok along with veggies and chinese aromats",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg hakka noodles",
+            "description": "stir fried chinese veggies tossed in wok along with noodles and pinch of salt and soya sauce",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg singapuri noodles",
+            "description": "wok tossed noodles with veggies and garnished with pinch of curry powder",
+            "price": {"normal": null,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg chilli garlic noodles",
+            "description": "stir fried noodles tossed in wok along with hot veggies and garlic sauce",
+            "price": {"normal": 179,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "chicken noodles",
+            "description": "stir fried noodles tossed in wok along with veggies and crispy chicken",
+            "price": {"normal": null,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": true
+      },
+      {
+        "name": "fried rice",
+        "dishes": [
+          {
+            "name": "veg fried rice",
+            "description": "steam rice tossed in wok along with veggies and chilli soya sauce",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg chilli garlic rice",
+            "description": "spicy rice tossed in wok along wit hhot veggies and chilli garlic sauce",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer fried rice",
+            "description": "rice tossed in wok along with cottage paneer, hot veggies and chilli garlic sauce",
+            "price": {"normal": 189,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          },
+          {
+            "name": "chicken fried rice",
+            "description": "rice tossed in wok along with crispy chicken, hot veggies and chilli garlic sauce",
+            "price": {"normal": 199,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "sizzlers",
+        "dishes": [
+          {
+            "name": "blazing sizzler",
+            "description": "manchurian, mushroom chilly, fried rice / noodles",
+            "price": {"normal": 279,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "frizling sizzler",
+            "description": "manchurian, cheese chilly, fried rice / noodles",
+            "price": {"normal": 289,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      }
+    ]
+  },
+  {
+    "name": "tandoor se",
+    "sections": [
+      {
+        "name": "chaap",
+        "dishes": [
+          {
+            "name": "tandoori chaap",
+            "description": "crispy chaap marinated in spicy gravy and cooked perfectly in tandoor",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "achari chaap",
+            "description": "crispy chaap marinated in creamy ahcari gravy and cooked perfectly in tandoor",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "malai chaap",
+            "description": "crispy chaap cooked perfectly in creamy marinated gravy",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "haryali chaap",
+            "description": "crispy chaap marinated in spicy spinach gravy and cooked perfectly in tandoor",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "afghani chaap",
+            "description": "crispy chaap marinated in creamy spicy gravy and cooked perfectly in tandoor with cream",
+            "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "mushroom",
+        "dishes": [
+          {
+            "name": "tandoori mushroom",
+            "description": "button mushrooms marinated in spicy tangy gravy and cooked to perfection in tandoor along with butter & cream",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "malai mushroom tikka",
+            "description": "button mushrooms marinated in creamy tangy gravy and cooked to perfection in tandoor along with butter & cream",
+            "price": {"normal": 229,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "paneer",
+        "dishes": [
+          {
+            "name": "tandoori paneer tikka",
+            "description": "cottage paneer marinated in spicy yogurt gravy & perfectly cooked in tandoor along with butter",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "malai paneer tikka",
+            "description": "cottage paneer cooked in creamy marinated gravy & perfectly cooked in tandoor along with butter",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "haryali paneer tikka",
+            "description": "cottage paneer marinated in spicy spinach gravy & perfectly cooked in tandoor along with butter",
+            "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "afghani panner tikka",
+            "description": "cottage paneer marinated in spicy creamy gravy & perfectly cooked in tandoor along with butter",
+            "price": {"normal": 229,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg platter",
+            "description": "tandoori paneer tikka, malai paneer tikka, tandoori chaap, tandoori mushroom",
+            "price": {"normal": 349,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": true,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      }
+    ]
+  },
+  {
+    "name": "main course",
+    "sections": [
+      {
+        "name": "",
+        "dishes": [
+          {
+            "name": "yellow dal",
+            "description": "yellow lentil cooked over butter and tempered with onion cream adn garnish with pinch of corriander",
+            "price": {"normal": null,"half": 99, "full": 169, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "dal makhani",
+            "description": "bata authentic dish from punjab black lentil cooked with fresh cream and butter",
+            "price": {"normal": null,"half": 119, "full": 190, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mix vegetable",
+            "description": "fresh garden vegetables cooked in chopped masala and garnish with pinch of ginger and coriander",
+            "price": {"normal": null,"half": 129, "full": 199, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chaap butter masala",
+            "description": "marinated chaap cooked in tomato, cashewnut gravy and garnish with butter",
+            "price": {"normal": null,"half": 139, "full": 239, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "palak kofta",
+            "description": "soft melted paneer dumplings made with malai and added into spicy spinach gravy",
+            "price": {"normal": null,"half": 139, "full": 239, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "malai kofta",
+            "description": "soft melted paneer dumplings made with malai and added into spicy spinach gravy",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "kadhai paneer",
+            "description": "spicy cottage cheese cooked in rich gravy simmered with butter and fresh cream",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer butter masala",
+            "description": "cottage cheese cooked in rich creamy spicy tomato gravy and simmered with delicious butter and fresh cream",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "palak paneer",
+            "description": "cubes in paneer cooked in smooth creamy delicious spinach gravy",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer makhani",
+            "description": "soft cottage paneer cubes cooked in creamy makhani gravy",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer bhurji",
+            "description": "traditional indian crumbled paneer cooked in spicy chopped onion masala",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "adi's spl. paneer lababdar",
+            "description": "paneer cooked in the authentic combination of capsicum tomato onion cooked in traditional gravy",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chana masala",
+            "description": "tangy chickpeas made in assorted spicy flavored gravy",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mushroom-do-pyaza",
+            "description": "butter mushroom cooked in semi hydration gravy with lots of indian and butter",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "mushroom butter masala",
+            "description": "button mushrooms cooked in rich gravy with lots of onion and butter",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "kadhai paneer mushroom",
+            "description": "paneer and mushroom combined with capsicum and onion cooked in spicy indian gravy",
+            "price": {"normal": null,"half": 169, "full": 269, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "kadhai chicken",
+            "description": "spicy boneless chicken cooked in the authentic combination of capsicum, tomato, onion cooked in traditional gravy",
+            "price": {"normal": null,"half": 199, "full": 359, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "rara chicken",
+            "description": "keema chicken cooked in tomato onion traditional gravy",
+            "price": {"normal": null,"half": 199, "full": 359, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "adi's spl. butter chicken",
+            "description": "boneless chicken tikka cooked in rich creamy spicy tomato gravy and simmered with delicious butter and fresh cream",
+            "price": {"normal": null,"half": 219, "full": 379, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "chicken (boneless)",
+        "dishes": [
+          {
+            "name": "tandoori chicken tikka",
+            "description": "crispy chicken marinated in spicy gravy and cooked perfectly in tandoor along with butter",
+            "price": {"normal": 289,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "malai chicken tikka",
+            "description": "crispy chicken marinated in creamy gravy and cooked perfectly in tandoor along with butter",
+            "price": {"normal": 289,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "achari chicken tikka",
+            "description": "crispy chicken marinated in ahcari gravy and cooked perfectly in tandoor along with butter",
+            "price": {"normal": 289,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          },
+          {
+            "name": "afghani chicken tikka",
+            "description": "crispy chicken marinated in spicy creamy gravy and cooked perfectly in tandoor along with butter",
+            "price": {"normal": 299,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "desserts",
+        "dishes": [
+          {
+            "name": "vanilla ice cream with toppings",
+            "description": "(chocolate, strawberry, pan, mango)",
+            "price": {"normal": 49,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "hot chocolate sizzling brownie",
+            "description": "(with ice cream)",
+            "price": {"normal": 119,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": true
+      },
+      {
+        "name": "breads",
+        "dishes": [
+          {
+            "name": "tandoori roti",
+            "description": "",
+            "price": {"normal": 12,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "butter tawa roti",
+            "description": "",
+            "price": {"normal": 16,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "butter roti",
+            "description": "",
+            "price": {"normal": 16,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "butter lacha parantha",
+            "description": "",
+            "price": {"normal": 39,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "missi roti",
+            "description": "",
+            "price": {"normal": 39,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "butter naan",
+            "description": "",
+            "price": {"normal": 39,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "garlic naan",
+            "description": "",
+            "price": {"normal": 49,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "stuffed kulcha",
+            "description": "",
+            "price": {"normal": 59,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "salad",
+        "dishes": [
+          {
+            "name": "green salad",
+            "description": "",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "raita",
+        "dishes": [
+          {
+            "name": "mix raita",
+            "description": "",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "pineapple raita",
+            "description": "",
+            "price": {"normal": 109,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "papad",
+        "dishes": [
+          {
+            "name": "amritsari",
+            "description": "",
+            "price": {"normal": 29,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "masala",
+            "description": "",
+            "price": {"normal": 59,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "rice",
+        "dishes": [
+          {
+            "name": "jeera rice",
+            "description": "rice tossed along with jeera along with ghee",
+            "price": {"normal": null,"half": 129, "full": 189, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg dum biryani",
+            "description": "flavoured rice with vegetables crunchy cashew herbs & spices cooked in simmered flame",
+            "price": {"normal": null,"half": 149, "full": 249, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chaap dum biryani",
+            "description": "flavoured rice with tandoori chaap along with garden veggies & various spices",
+            "price": {"normal": null,"half": 159, "full": 259, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer dum biryani",
+            "description": "fresh paneer cubes cooked in ground spices & herbs along with long grain basmati rice",
+            "price": {"normal": null,"half": 169, "full": 269, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "chicken dum biryani",
+            "description": "fresh chicken tikka cooked in ground spices & herbs along with long grain basmati rice",
+            "price": {"normal": null,"half": 189, "full": 289, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": true
+          }
+        ],
+        "image": "",
+        "special": false
+      }
+    ]
+  },
+  {
+    "name": "aromatic combo's",
+    "sections": [
+      {
+        "name": "stuffed naan combo",
+        "dishes": [
+          {
+            "name": "chaap keema naan with gravy",
+            "description": "crispy naan stuffed with keema chaap and served with butter makhani gravy",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer naan with gravy",
+            "description": "cottage paneer mixture stuffed in naan along with aromatic spices and served with butter makhani gravy",
+            "price": {"normal": 169,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "butter naan combo",
+        "dishes": [
+          {
+            "name": "daal makhani with naan",
+            "description": "crispy butter naan served with dal makhani",
+            "price": {"normal": 129,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer makhani with naan",
+            "description": "crispy butter naan served with paneer makhani",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "rice bowls",
+        "dishes": [
+          {
+            "name": "dal makhani rice bowls",
+            "description": "",
+            "price": {"normal": 129,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "paneer makhani rice bowls",
+            "description": "",
+            "price": {"normal": 149,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      },
+      {
+        "name": "soups",
+        "dishes": [
+          {
+            "name": "veg manchow soup",
+            "description": "vegetable boiled in chinese style & served with crispy noodles",
+            "price": {"normal": 99,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg sweet corn soup",
+            "description": "sweet corn boiled in chinese style",
+            "price": {"normal": 89,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg hot n sour soup",
+            "description": "variety of vegetables boiled in chinese spices",
+            "price": {"normal": 89,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          },
+          {
+            "name": "veg clear soup",
+            "description": "boiled veggies served transparently with punch of salt",
+            "price": {"normal": 89,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+            "special": false,
+            "nonveg": false
+          }
+        ],
+        "image": "",
+        "special": false
+      }
+    ]
+  },
+  {
+    "name": "thali",
+    "sections": [
+        {
+          "name": "adi's deluxe thali",
+          "dishes": [
+            {
+              "name": "dal makhani, mix veg, 2 butter roti, jeera rice, sirka onion",
+              "description": "",
+              "price": {"normal": 159,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+              "special": false,
+              "nonveg": false
+            }
+          ],
+          "image": "",
+          "special": false
+        },
+        {
+          "name": "adi's royal thali",
+          "dishes": [
+            {
+              "name": "dal makhani, paneer makhani, mix veg, raita, jeera rice, 2 butter roti, 1 butter naan, papad, ice cream",
+              "description": "",
+              "price": {"normal": 219,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+              "special": false,
+              "nonveg": false
+            }
+          ],
+          "image": "",
+          "special": false
+        },
+        {
+          "name": "adi's chicken thali",
+          "dishes": [
+            {
+              "name": "butter chicken, dal makhani, mix veg, raita, 2 butter roti, 1 butter naan, sirka onion, ice cream",
+              "description": "",
+              "price": {"normal": 279,"half": null, "full":null, "eight": null, "twelve": null, "veg": null, "non-veg": null},
+              "special": false,
+              "nonveg": true
+            }
+          ],
+          "image": "",
+          "special": false
+        }
+    ]
+  }
+]
