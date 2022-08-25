@@ -5,12 +5,15 @@ import { MenuComponent } from './menu/menu.component';
 
 
 const routes: Routes = [
-  {path: '', component: HomeComponent},
-  {path: 'menu', component: MenuComponent}
+  {path: 'home', component: HomeComponent},
+  {path: 'menu', component: MenuComponent},
+  {path: '', component: HomeComponent}
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes)],
+  imports: [RouterModule.forRoot(routes, {
+    initialNavigation: 'enabledBlocking'
+})],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }

@@ -1,0 +1,18 @@
+nav {
+  z-index: 1000;
+}
+
+.navbar-brand img {
+  height: 100px;
+  width: 150px;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.cta {
+  border: 1px solid;
+  border-color: rgb(254, 202, 10);
+  color: rgb(254, 202, 10);
+}

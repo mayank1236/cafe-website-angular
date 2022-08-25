@@ -1,14 +1,15 @@
-<div class="bg-dark d-flex flex-row justify-content-between">
-  <div class="d-flex flex-row text-light">
-    <nav>
-      <ul>
-        <li><a>Home</a></li>
-        <li><a>Gallery</a></li>
-        <li><a>Menu</a></li>
-        <li><a>Events</a></li>
-        <li><a>Visit Us</a></li>
+<nav class="navbar position-fixed w-100">
+  <div class="container-fluid d-flex justify-content-between">
+    <a class="navbar-brand" routerLink="home"><img src="../../assets/img/Adi_s_Cafe_logo.png"></a>
+    <div class="d-flex">
+      <ul class="navbar-nav me-2">
+        <li class="nav-item">
+          <a routerLink="menu" class="nav-link">MENU</a>
+        </li>
       </ul>
-    </nav>
-    <button class="btn btn-primary"></button>
+      <form class="d-flex me-2" role="action">
+        <button class="btn cta" type="button">Book Now</button>
+      </form>
+    </div>
   </div>
-</div>
+</nav>
