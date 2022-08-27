@@ -10,6 +10,8 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { HomeComponent } from './home/home.component';
 import { LandingComponent } from './home/landing/landing.component';
 import { MenuComponent } from './menu/menu.component';
+import { MenuNavComponent } from './menu/menu-nav/menu-nav.component';
+import { NgImageSliderModule } from 'ng-image-slider';
 
 @NgModule({
   declarations: [
@@ -18,13 +20,15 @@ import { MenuComponent } from './menu/menu.component';
     FooterComponent,
     HomeComponent,
     LandingComponent,
-    MenuComponent
+    MenuComponent,
+    MenuNavComponent
   ],
   imports: [
     BrowserModule.withServerTransition({ appId: 'serverApp' }),
     AppRoutingModule,
     HttpClientModule,
-    FontAwesomeModule
+    FontAwesomeModule,
+    NgImageSliderModule
   ],
   providers: [],
   bootstrap: [AppComponent]
