@@ -1,4 +1,16 @@
-.img-container {
+.img-slider {
   width: 100%;
   height: 90vh;
+  text-align: center;
+}
+
+
+.img-container img {
+  display: none;
+}
+
+.show {
+  display: block!important;
+  height: auto;
+  max-width: 100%;
 }

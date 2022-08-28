@@ -1,9 +1,5 @@
-<div class="img-container">
-  <ng-image-slider #nav
-    [images]="imageObject"
-    [imageSize]="{width: '100%', height: 1000}"
-    [infinite]="true"
-    [autoSlide]="2"
-    [imagePopup]="false"
-    ></ng-image-slider>
+<div class="img-slider d-flex flex-row overflow-hidden">
+  <div class="img-container" *ngFor="let imgSrc of images; let i = index">
+    <img [ngClass]="{'show': imgIndex === i}" [src]="imgSrc" />
+  </div>
 </div>
