@@ -1,5 +1,11 @@
 nav {
   z-index: 1000;
+  background: #000000;
+}
+
+.next {
+  height: 140px;
+  width: 100%;
 }
 
 .navbar-brand img {
